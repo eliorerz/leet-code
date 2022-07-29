@@ -1,4 +1,4 @@
-package two_sum
+package twoSum
 
 // Time: O(n^2)
 func TwoSumNSquare(nums []int, target int) []int {
